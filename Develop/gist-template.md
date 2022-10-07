@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Matching an Hex Value with Regex
 
-Introductory paragraph (replace this with your text)
+This is a tutorial that will teach you the different parts of a regex so you can use it to match hex values 
 
 ## Summary
 
@@ -20,7 +20,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
-
+  Anchors are either ^ or \$. ^ is used to signify a string that contains the characters proceeding it. \$ is used to signify a string with characters that preceed it.
 ### Quantifiers
 
 ### Grouping Constructs
@@ -38,3 +38,4 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+[Github Repository](https://github.com/APowers9)
