@@ -36,5 +36,4 @@ I will be breaking down the different parts of a regex so you can make sense of 
 ### Character Escapes
 Similar to writing special characters in markdown, character escapes in regex remove the "effect" from a character that would otherwise have a different use, example: \[normal brackets]
 ## Author
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
 [Github Repository](https://github.com/APowers9)
